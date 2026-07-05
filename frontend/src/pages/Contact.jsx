@@ -51,7 +51,7 @@ export default function Contact() {
 
       <div style={{ marginTop: 40 }}>
         <a href="https://wa.me/yourwhatsappnumber" className="btn btn-outline" style={{ marginRight: 12 }}>WhatsApp</a>
-        <a href="https://t.me/yourtelegramhandle" className="btn btn-outline">Telegram</a>
+        <a href="https://t.me/TANGLINEBOT" className="btn btn-outline">Telegram</a>
       </div>
     </div>
   );
